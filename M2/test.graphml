@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key attr.name="weight" attr.type="long" for="edge" id="d1"/>
+<key attr.name="color" attr.type="string" for="edge" id="d0"/>
+<graph edgedefault="undirected"><node id="1"/>
+<node id="2"/>
+<node id="3"/>
+<node id="4"/>
+<node id="5"/>
+<edge source="1" target="2">
+  <data key="d0">blue</data>
+</edge>
+<edge source="1" target="3">
+  <data key="d1">8</data>
+</edge>
+<edge source="1" target="4"/>
+<edge source="2" target="5"/>
+<edge source="3" target="4">
+  <data key="d0">red</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="3" target="5"/>
+</graph></graphml>
