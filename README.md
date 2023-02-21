@@ -19,3 +19,4 @@ Recomendamos los siguientes enlaces para poder instalar los componentes de softw
 - [Módulo 4 - Detección de comunidades](./M4/)
 - [Módulo 5 - Difusión y propagación de la información](./M5/)
 - [Módulo 6 - Generación de grafos sintéticos](./M6/)
+- [Ejemplos de la API de Twitter](./Twitter/)
